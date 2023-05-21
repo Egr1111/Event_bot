@@ -4,8 +4,8 @@
 <ul>
 <li>Скачать этот проект(или клонировать) и поместить его в одну папку</li>
 <li>Создать виртуальную среду: python -m venv venv</li>
-<li>Скачать все необходимое для запуска проекта. Все библиотеки, что для этого нужны есть в requirements.txt: pip install -r requirements.txt</li>
-<li>В BotFather создать своего Тг бота: https://t.me/BotFather</li>
+<li>Скачать все необходимое для запуска проекта. Все библиотеки, что для этого нужны, есть в requirements.txt: pip install -r requirements.txt</li>
+<li>В BotFather создать своего ТГ бота: https://t.me/BotFather</li>
 <li>Запустить проект: python main.py start</li>
 <li>Наслаждаться результатом : )</li>
 </ul>

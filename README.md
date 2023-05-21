@@ -7,6 +7,8 @@
 <li>Скачать все необходимое для запуска проекта. Все библиотеки, что для этого нужны, есть в requirements.txt: pip install -r requirements.txt</li>
 <li>В BotFather создать своего ТГ бота: https://t.me/BotFather</li>
 <li>Вставить полученный токен в TOKEN_BOT в файле ceredits.py</li>
+<li>Получить свой id в userinfobot: https://t.me/userinfobot</li>
+<li>Вставить полученный id в ADMIN_ID в файле ceredits.py</li>
 <li>Запустить проект: python main.py start</li>
 <li>Наслаждаться результатом : )</li>
 </ul>
